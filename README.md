@@ -24,23 +24,23 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/6.png)
 
-*Далее подключаем прокси и проверяем, что программа является динамически собранной *
-
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/7.png)
+
+*Далее подключаем прокси и проверяем, что программа является динамически собранной *
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/8.png)
 
-*редактируем файл proxychains-NG*
-
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/9.png)
 
-*после проделанных махинаций у меня не получилось получить данные о прокси соединении, однако у меня получилось открыть файрвокс с прокси-сервером*
+*редактируем файл proxychains-NG*
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/10.png)
 
-**TOR**
+*после проделанных махинаций у меня не получилось получить данные о прокси соединении, однако у меня получилось открыть файрвокс с прокси-сервером*
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/11.png)
+
+**TOR**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/12.png)
 
