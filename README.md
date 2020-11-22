@@ -1,8 +1,14 @@
+**8 ПРАКТИКА БИ ЛАЙК**
 
+*Качаем Cellular Network Signal, узнаём данные о подключении к вышке**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/1.jpg)
 
+*Затем эти данные вносим на сайте и нам выходит это, всё подошло*
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/2.png)
+
+Затем мы переходим в линукс, сканиурем сеть при помощи команды
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/3.png)
 
