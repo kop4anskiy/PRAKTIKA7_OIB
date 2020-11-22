@@ -60,16 +60,26 @@
 Проверим запуск и соединение с tor сетью
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/17.png)
+ 
+произведем запуск тестового web сервера:
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/18.png)
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/19.png)
 
+теперь мы ищем тор, где тор, а вот где:
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/20.png)
+
+Находим конфигурационный файл, расскомментируем и изменим нужные строки
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/21.png)
 
+перезапустим тор и перейдем по публичному ключу
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/22.png)
+
+**SSH – сервер**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/23.png)
 
