@@ -48,7 +48,7 @@
 
 **ТОР**
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvyi_pochti_prisposobilis_k_tme_7068192&psig=AOvVaw1P3aNA3E4m8al116MTnd_d&ust=1606171068639000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiXkNabl-0CFQAAAAAdAAAAABAD)
+![](https://cs9.pikabu.ru/post_img/big/2019/11/26/8/1574771886171056985.pngD)
 
 Теперь перейдем к тору, после установки и модифицировании файла, добавим ключ gpg,
 используемый для подписи пакетов
