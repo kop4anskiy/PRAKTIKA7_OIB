@@ -48,6 +48,8 @@
 
 **ТОР**
 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fvyi_pochti_prisposobilis_k_tme_7068192&psig=AOvVaw1P3aNA3E4m8al116MTnd_d&ust=1606171068639000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiXkNabl-0CFQAAAAAdAAAAABAD)
+
 Теперь перейдем к тору, после установки и модифицировании файла, добавим ключ gpg,
 используемый для подписи пакетов
 
@@ -83,25 +85,47 @@
 
 **SSH – сервер**
 
+Установив нужные утилиты, проводим махинации тупа, но опять ничего не вышло, почему-то, я расстроен, канекшн рефьюзд
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/24.png)
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/25.png)
 
+**I2P**
+
+Запустим I2P сеть, проведем все настройки, провреим пропускную способность и тд
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/26.png)
 
-![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/27.png)
+*теперь отправим поссылОЧКУ на почту, как бы даааа*
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/28.png)
 
+Перейдем в консоль маршрутизатора
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/29.png)
+
+Качаем вид сайта и меняем его при помощи текстового редактора и вуа-ля
+
+![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/27.png)
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/30.png)
 
+подключаемся к локальному серверу через основную ОС 
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/31.png)
+
+затем меняем настройки сервера, сохраняем конфигурации 
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/32.png)
 
+запускаем сервер
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/33.png)
+
+качаем приложение и делаем всё, что от нас просят
+
+и вуа-ля, статус активен
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/34.png)
 
