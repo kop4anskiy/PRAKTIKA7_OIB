@@ -132,9 +132,13 @@
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/34.png)
 
 
+**UVOZIM SERVAK**
 
+![](https://lh3.googleusercontent.com/proxy/1GpXe3mzDHv4GCpIZiosxgEgH31cMqkyWictAcFRmCF0dsJmUcYxAL80xlTnV97ej1bUPHZoVLD508VSOlLLo2aoDVlhsCWuZLPO4A9aR9G8)
 
+**THE END** я усталь
 
+![](https://thumbs.gfycat.com/WarmheartedPhysicalHart-small.gif)
 
 
 
