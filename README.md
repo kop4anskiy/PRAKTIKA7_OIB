@@ -32,17 +32,13 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/9.png)
 
-*редактируем файл proxychains-NG*
-
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/10.png)
-
-*после проделанных махинаций у меня не получилось получить данные о прокси соединении, однако у меня получилось открыть файрвокс с прокси-сервером*
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/11.png)
 
-**TOR**
-
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/12.png)
+
+*после проделанных махинаций у меня не получилось получить данные о прокси соединении, однако у меня получилось открыть файрвокс с прокси-сервером*
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/13.png)
 
