@@ -93,6 +93,8 @@
 
 **I2P**
 
+![](https://chefkochblog.files.wordpress.com/2018/06/progetto-senza-titolo1.png?w=535&h=401)
+
 Запустим I2P сеть, проведем все настройки, провреим пропускную способность и тд
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/26.png)
