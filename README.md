@@ -16,11 +16,11 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/4.png)
 
+![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/5.png)
+
 **ИДЕНТИФИКАЦИЯ НА СЕТЕВОМ И ТРАНСПОРТНОМ УРОВНЕ** 
 
 *Сравниваем IP на онлайн сервисе и в консоли линукса*
-
-![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/5.png)
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/6.png)
 
