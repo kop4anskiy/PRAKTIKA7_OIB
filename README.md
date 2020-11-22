@@ -32,6 +32,8 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/9.png)
 
+Меняем файлик proxychains4.conf и вводим нужные нам значения
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/10.png)
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/11.png)
@@ -44,9 +46,18 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/14.png)
 
+**ТОР**
+
+Теперь перейдем к тору, после установки и модифицировании файла, добавим ключ gpg,
+используемый для подписи пакетов
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/15.png)
 
+экспортируем ключик и обновляем систему ТОРа
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/16.png)
+
+Проверим запуск и соединение с tor сетью
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/17.png)
 
