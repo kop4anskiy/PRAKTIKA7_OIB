@@ -69,19 +69,19 @@
 
 теперь мы ищем тор, где тор, а вот где:
 
-![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/20.png)
-
 Находим конфигурационный файл, расскомментируем и изменим нужные строки
 
-![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/21.png)
+![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/20.png)
 
 перезапустим тор и перейдем по публичному ключу
 
+![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/21.png)
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/22.png)
 
-**SSH – сервер**
-
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/23.png)
+
+**SSH – сервер**
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/24.png)
 
