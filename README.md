@@ -150,6 +150,8 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/38.png)
 
+![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/41.png)
+
 
 
 
