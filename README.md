@@ -140,6 +140,18 @@
 
 ![](https://thumbs.gfycat.com/WarmheartedPhysicalHart-small.gif)
 
+**ДОРАБОТочка**
+
+![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/36.png)
+
+![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/37.png)
+
+![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/38.png)
+
+![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/39.png)
+
+![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/40.png)
+
 
 
 
