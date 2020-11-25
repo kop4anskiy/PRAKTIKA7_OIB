@@ -142,6 +142,8 @@
 
 **ДОРАБОТочка**
 
+*в настройках поменял порт и проделал, что надо было*
+
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/36.png)
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/37.png)
@@ -149,6 +151,8 @@
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/38.png)
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/39.png)
+
+**Всё равно пишет, что канекшн клозед, прогуглив данную проблему, я нашел это(не знаю, какова вероятность, что это у меня руки кривые):  
 
 ![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/40.png)
 
