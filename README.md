@@ -136,7 +136,7 @@
 
 **UVOZIM SERVAK**
 
-![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/1.jpg)
+![](https://raw.githubusercontent.com/kop4anskiy/PRAKTIKA7_OIB/main/7.jpg)
 
 **THE END** я усталь
 
