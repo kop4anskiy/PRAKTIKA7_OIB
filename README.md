@@ -1,4 +1,4 @@
-### [Перемотка к доработке]
+### [Перемотка к доработке](https://github.com/kop4anskiy/PRAKTIKA7_OIB/blob/main/README.md#%D0%B4%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D1%87%D0%BA%D0%B0)
 
 **8 ПРАКТИКА БИ ЛАЙК**
 
